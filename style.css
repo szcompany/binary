@@ -70,7 +70,7 @@ a{
     text-align: center;
     align-items: stretch;
     padding: 8rem 2rem;
-    background: url(img/mainblock/bg.jpg) center/cover no-repeat;
+    background: url(bg.jpg) center/cover no-repeat;
 }
 
 .mainblock__content {
